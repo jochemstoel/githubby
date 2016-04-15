@@ -1,0 +1,23 @@
+{
+  "name": "githubby",
+  "version": "1.0.0d",
+  "description": "Search GitHub for repositories, code and users. Get user/repo data.",
+  "main": "index.js", 
+  "author": {
+    "email": "jochemstoel@gmail.com",
+    "name": "Jochem Stoel",
+    "url": "http://jochemstoel.github.io"
+  },
+  "dependencies": {
+    "cheerio": "0.19.0",
+    "request": "2.70.0"
+  }, 
+  "homepage": "https://github.com/jochemstoel/githubby",
+  "keywords": [
+    "github",
+    "parser",
+    "search",
+    "code",
+    "scraper"
+  ],
+}
